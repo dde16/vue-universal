@@ -9,9 +9,6 @@
         "resolveJsonModule": true,
         "lib": ["esnext", "dom", "ES2015.Promise"],
         "baseUrl": ".",
-        "paths": {
-            "@/*": ["src/*"]
-        },
         "importHelpers": true
     },
     "include": [

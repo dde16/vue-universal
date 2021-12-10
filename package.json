@@ -3,8 +3,8 @@
     "version": "1.0.0",
     "description": "A general Vue library universal to apps I develop.",
     "author": "dde16",
-    "main": "src/index.ts",
-    "dependencies": {
+    "main": "index.ts",
+    "peerDependencies": {
         "vue": "^3.0.5",
         "vue-router": "4",
         "vue-tsc": "^0.0.24",
